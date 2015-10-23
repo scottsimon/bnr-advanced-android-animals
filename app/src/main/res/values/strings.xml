@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animals</string>
+    <string name="action_settings">Settings</string>
+    <string name="animal_app_welcome_text">Welcome to AnimalApp. Your home for all things animal.</string>
+</resources>

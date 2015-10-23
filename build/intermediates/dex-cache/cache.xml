@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/pre-dexed/cats/debug/classes-46983b6b3626ff72316cca676430757d96117f70.jar" />
+    </item>
+    <item
+        jar="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/pre-dexed/cats/debug/classes-95c942759416d47b83a4b4bda0178eb71b7510e0.jar" />
+    </item>
+    <item
+        jar="/Users/scotts/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/pre-dexed/cats/debug/glide-3.6.1-11159fc9cec0873d4f00d1912d8e1fe69b5a4b19.jar" />
+    </item>
+    <item
+        jar="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/pre-dexed/cats/debug/internal_impl-22.2.1-36e8e88963768e5ebfa950e80f7cc96b78dccc11.jar" />
+    </item>
+    <item
+        jar="/Users/scotts/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/pre-dexed/cats/debug/retrofit-1.9.0-50b4550e17bc05d5151f1c71d58f11e0abc18f95.jar" />
+    </item>
+    <item
+        jar="/Users/scotts/Documents/DevTools/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/pre-dexed/cats/debug/support-annotations-22.2.1-2682e45e5dea13f13673eab4b0d27e1f6aff4074.jar" />
+    </item>
+    <item
+        jar="/Users/scotts/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/pre-dexed/cats/debug/gson-2.3.1-9add27d8e04fada4e370324d1b6cfd8c3cef8d92.jar" />
+    </item>
+    <item
+        jar="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/pre-dexed/cats/debug/classes-ac838bacfa7dee8d1f5eebbd28930a3791d3b7e0.jar" />
+    </item>
+    <item
+        jar="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/scotts/Documents/Training/BigNerdRanch-AdvancedAndroid/InitialAppState/app/build/intermediates/pre-dexed/cats/debug/classes-450f872f1bac8ec5de9e901cc1bb6a05a4eb64af.jar" />
+    </item>
+
+</items>
