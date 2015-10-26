@@ -1,15 +1,23 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        releaseConfig {
+            keyAlias 'BNR Android Key'
+            storeFile file('/Users/scotts/Documents/Dev/keystores/bnrAndroid.jks')
+            keyPassword 'arcgis12'
+            storePassword 'arcgis12'
+        }
+    }
     compileSdkVersion 22
     buildToolsVersion "22.0.1"
-
     defaultConfig {
         applicationId "com.bignerdranch.android.animals"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
+        buildConfigField "String", "API_KEY", API_KEY
     }
     buildTypes {
         release {
@@ -20,9 +28,11 @@ android {
     productFlavors {
         cats {
             applicationId "com.bignerdranch.android.animals.cats"
+            signingConfig signingConfigs.releaseConfig
         }
         dogs {
             applicationId "com.bignerdranch.android.animals.dogs"
+            signingConfig signingConfigs.releaseConfig
         }
     }
 }
